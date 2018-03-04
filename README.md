@@ -1,5 +1,5 @@
-# RGB-Color-in-Clothes
-Finding the % of Red, Green &amp; Blue color present in the dress
+# Dataweave Assignment
+Solving the 3 computer Visions problems
 
 :)
 
